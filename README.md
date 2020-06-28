@@ -13,6 +13,7 @@
 - git commit
 
 > 冬林
+- git status
 - git checkout
 - git reset
 
