@@ -11,7 +11,6 @@
 - git clone
 - git add
 - git commit
-- git reset
 
 > 冬林
 - git checkout
