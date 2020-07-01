@@ -52,3 +52,7 @@
 git revert
 
 git remote 
+
+git tag
+
+git submodule vs git subtree
