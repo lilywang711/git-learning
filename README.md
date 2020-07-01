@@ -7,7 +7,7 @@
 ### 第一周
 
 > 小英
-- git 基础知识（三大区域, 三个状态）
+- git 基础知识（三大区域, 三个状态, HEAD）
 - git clone
 - git add
 - git commit
@@ -21,8 +21,9 @@
 
 > 冬林
 - 分支介绍
+- git checkout --branch
 - git merge
-- git rebase
+- git rebase (包含 git rebase -i)
 
 ### 第三周
 
@@ -44,3 +45,10 @@
 
 - git 常见需求与总结 小英、冬林
 
+
+
+
+
+git revert
+
+git remote 
