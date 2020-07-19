@@ -24,6 +24,7 @@
 - git checkout --branch
 - git merge
 - git rebase (包含 git rebase -i)
+- git revert
 
 ### 第三周
 
@@ -38,21 +39,11 @@
 - git cherry-pick
 - git diff
 - git stash
-- git rebase
-
 
 ### 第五周
 
+- git submodule vs git subtree 小英
+
 - git 常见需求与总结 小英、冬林
 
-
-
-
-
-git revert
-
-git remote 
-
 git tag
-
-git submodule vs git subtree
