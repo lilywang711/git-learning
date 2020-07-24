@@ -37,6 +37,7 @@
 ### 第四周
 
 > 冬林
+- git pull
 - git cherry-pick
 - git stash
 - git 常见需求与总结
