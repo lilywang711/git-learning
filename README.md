@@ -31,19 +31,20 @@
 > 小英
 - git log
 - git reflog
-- .git 文件夹分析
+- git blame
+- git remote
 
 ### 第四周
 
 > 冬林
 - git cherry-pick
-- git diff
 - git stash
+- git 常见需求与总结
 
 ### 第五周
 
 - git submodule vs git subtree 小英
-
 - git 常见需求与总结 小英、冬林
+- git tag 小英
 
-git tag
+
