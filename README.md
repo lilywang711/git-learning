@@ -40,7 +40,6 @@
 - git pull
 - git cherry-pick
 - git stash
-- git 常见需求与总结
 
 ### 第五周
 
