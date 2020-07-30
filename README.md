@@ -43,7 +43,7 @@
 
 ### 第五周
 
-- git submodule vs git subtree 小英
+- git submodule 小英
 - git 常见需求与总结 小英、冬林
 - git tag 小英
 
